@@ -28,5 +28,5 @@ Computer Engineering student at Ankara Yıldırım Beyazıt University with a fo
 ### Professional Contact
 
 * **LinkedIn:** [linkedin.com/in/calginyagiz](https://www.linkedin.com/in/calginyagiz)
-* **Email:** [calginyagiz@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=calginyagiz@gmail.com)
+  **Email:** [calginyagiz@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=calginyagiz@gmail.com)
 * **Location:** Ankara, Turkey
